@@ -3,6 +3,8 @@
 - Date: 2018-10-24
 - Session overview: this session is an introduction to Rust. We review several characteristics of other languages and compare Rust to them.
 
+![](https://www.rust-lang.org/logos/rust-logo-blk.svg)
+
 ## Notes
 
 ### A word on type systems
