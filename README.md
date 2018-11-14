@@ -5,3 +5,5 @@
 - [ ] Developing a browser plugin to opt-out of Urkund file integration
 - [ ] Introduction to Haskell
 - [ ] Emulating server vulnerabilities (with dockerization)
+- [ ] Introduction to Kotlin
+- [ ] Fiddling with Raspberry Pi
