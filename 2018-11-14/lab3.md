@@ -9,4 +9,4 @@ See the [notebook](https://github.com/HackingLliure/labs/blob/master/2018-11-14/
 
 - [Hacker News](https://news.ycombinator.com)
 - [Hacker News API](https://github.com/HackerNews/API)
-- [Requests: HTTP for Humans](http://docs.python-requests.org/en/master/)
+- [Requests: HTTP for Humans™](http://docs.python-requests.org/en/master/)
